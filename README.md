@@ -1,4 +1,4 @@
-# Qwiic_OLED_128x32
+# Zio Qwiic OLED Display (0.91", 128x32 pixels)
 
 ![](091-oled.png)
 
